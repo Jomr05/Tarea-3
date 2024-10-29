@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Numeros fibonacci del 1 al 50\Numeros fibonacci del 1 al 50\bin\Debug\Numeros fibonacci del 1 al 50.exe.config
+C:\Users\PC\source\repos\Numeros fibonacci del 1 al 50\Numeros fibonacci del 1 al 50\bin\Debug\Numeros fibonacci del 1 al 50.exe
+C:\Users\PC\source\repos\Numeros fibonacci del 1 al 50\Numeros fibonacci del 1 al 50\bin\Debug\Numeros fibonacci del 1 al 50.pdb
+C:\Users\PC\source\repos\Numeros fibonacci del 1 al 50\Numeros fibonacci del 1 al 50\obj\Debug\Numeros fibonacci del 1 al 50.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Numeros fibonacci del 1 al 50\Numeros fibonacci del 1 al 50\obj\Debug\Numeros fibonacci del 1 al 50.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Numeros fibonacci del 1 al 50\Numeros fibonacci del 1 al 50\obj\Debug\Numeros fibonacci del 1 al 50.exe
+C:\Users\PC\source\repos\Numeros fibonacci del 1 al 50\Numeros fibonacci del 1 al 50\obj\Debug\Numeros fibonacci del 1 al 50.pdb

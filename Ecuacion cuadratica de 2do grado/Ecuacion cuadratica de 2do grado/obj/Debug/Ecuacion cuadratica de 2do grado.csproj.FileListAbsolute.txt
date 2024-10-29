@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Ecuacion cuadratica de 2do grado\Ecuacion cuadratica de 2do grado\obj\Debug\Ecuacion cuadratica de 2do grado.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Ecuacion cuadratica de 2do grado\Ecuacion cuadratica de 2do grado\obj\Debug\Ecuacion cuadratica de 2do grado.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Ecuacion cuadratica de 2do grado\Ecuacion cuadratica de 2do grado\bin\Debug\Ecuacion cuadratica de 2do grado.exe.config
+C:\Users\PC\source\repos\Ecuacion cuadratica de 2do grado\Ecuacion cuadratica de 2do grado\bin\Debug\Ecuacion cuadratica de 2do grado.exe
+C:\Users\PC\source\repos\Ecuacion cuadratica de 2do grado\Ecuacion cuadratica de 2do grado\bin\Debug\Ecuacion cuadratica de 2do grado.pdb
+C:\Users\PC\source\repos\Ecuacion cuadratica de 2do grado\Ecuacion cuadratica de 2do grado\obj\Debug\Ecuacion cuadratica de 2do grado.exe
+C:\Users\PC\source\repos\Ecuacion cuadratica de 2do grado\Ecuacion cuadratica de 2do grado\obj\Debug\Ecuacion cuadratica de 2do grado.pdb
